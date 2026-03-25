@@ -128,12 +128,13 @@ Have a bug to report or a feature you'd love to see? We're building **Skedoff** 
 - [x] Three-tab layout — Draft, Queue, Published
 - [x] Platform tagging
 - [x] Status management (Draft → Queue → Published)
-- [ ] Android Released
+- [x] Android Released
 
 ### v1.1.0 — Reminders
 
 - [ ] Local notification reminders for queued posts
 - [ ] Bulk actions — delete, move, or change status
+- [ ] Share drafts to Skedoff
 
 ---
 

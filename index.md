@@ -3,9 +3,9 @@ layout: default
 title: Skedoff
 ---
 
-<div align="center">
-
-<img src="assets/images/skedoff-icon.png" alt="Skedoff Icon" width="100" />
+<p align="center">
+  <img src="assets/images/skedoff-icon.png" alt="Skedoff Icon" width="100" />
+</p>
 
 # Skedoff
 
@@ -20,11 +20,7 @@ title: Skedoff
 
 [Why Skedoff](#why-skedoff) · [Features](#features) · [Screenshots](#screenshots) · [Platforms](#platforms) · [Roadmap](#roadmap)
 
-</div>
-
 ---
-
-## Why Skedoff?
 
 ## Why Skedoff?
 

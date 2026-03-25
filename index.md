@@ -1,3 +1,8 @@
+---
+layout: default
+title: Skedoff
+---
+
 <div align="center">
 
 <img src="assets/images/skedoff-icon.png" alt="Skedoff Icon" width="100" />

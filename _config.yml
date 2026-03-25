@@ -1,0 +1,8 @@
+# _config.yml
+title: Skedoff
+description: Plan offline. Post when ready. A privacy-first content planner.
+theme: jekyll-theme-architect
+markdown: kramdown
+kramdown:
+  input: GFM
+  hard_wrap: false

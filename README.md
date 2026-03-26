@@ -9,6 +9,7 @@
 [![License](https://img.shields.io/badge/License-MIT-4F6EF7?style=flat-square)](LICENSE)
 [![FlagoDNA](https://img.shields.io/badge/by-FlagoDNA-00C98D?style=flat-square)](https://flagodna.com)
 [![Platform](https://img.shields.io/badge/Platform-Android%20%7C%20iOS%20%7C%20Desktop-F7A84F?style=flat-square)](#platforms)
+[![Product Hunt](https://img.shields.io/badge/Product%20Hunt-Skedoff-DA552F?style=flat-square&logo=producthunt&logoColor=white)](https://www.producthunt.com/products/skedoff)
 
 > A privacy-first, offline-first social media content planner.  
 > No account. No cloud. No subscription. Just your drafts — waiting for the right moment.

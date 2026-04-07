@@ -96,9 +96,9 @@ Move a post from Draft → Queue → Published at your own pace. No automation. 
 | :---------- | :------------- | :------------------- | :------------------------------------------------------------------------------------------ |
 | **Android** | ✅ Active      | Android 6.0 (API 23) | [**Get on Play Store**](https://play.google.com/store/apps/details?id=com.flagodna.skedoff) |
 | **iOS**     | 🔄 Planned     | iOS 14.0             | —                                                                                           |
-| **Windows** | 🔄 Planned     | Windows 10           | [**Get on Released**](https://github.com/Flagodna-Developer/skedoff/releases)               |
+| **Windows** | ✅ Active      | Windows 10           | [**Get on Released**](https://github.com/Flagodna-Developer/skedoff/releases)               |
 | **macOS**   | 🔄 Planned     | macOS 11             | —                                                                                           |
-| **Linux**   | 🔄 Planned     | Ubuntu 20.04+        | [**Get on Released**](https://github.com/Flagodna-Developer/skedoff/releases)               |
+| **Linux**   | ✅ Active      | Ubuntu 20.04+        | [**Get on Released**](https://github.com/Flagodna-Developer/skedoff/releases)               |
 | **Web**     | ❌ Not planned | —                    | —                                                                                           |
 
 Web is intentionally excluded. Skedoff is a **device-native** app — offline-first means it belongs on your device.
@@ -116,7 +116,7 @@ Have a bug to report or a feature you'd love to see? We're building **Skedoff** 
 
 ---
 
-## Roadmap
+## Skedoff Roadmap
 
 ### v1.0.0
 
@@ -132,6 +132,13 @@ Have a bug to report or a feature you'd love to see? We're building **Skedoff** 
 
 - [x] Desktop app (Linux + Windows)
 - [x] Local WiFi drafts sync
+
+### v1.0.2 — Security & Usability Improvements
+
+- [ ] Add **PIN protection** for Skedoff Workstation  
+       _(Enhances security, especially when using public WiFi)_
+- [ ] Direct "Create New Draft" from the Workstation app  
+       _(Faster workflow, no need to open mobile app first)_
 
 ### v1.1.0 — Reminders
 
